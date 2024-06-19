@@ -1,5 +1,5 @@
 print("----------------------------")
-print("Es primo el numero o no")
+print("Es primo o no es primo")
 print("----------------------------")
 def Nprimo(numero):
     if numero <= 1:
