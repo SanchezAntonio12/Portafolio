@@ -3,15 +3,18 @@ print("Es primo el numero o no")
 print("----------------------------")
 def Nprimo(numero):
     if numero <= 1:
-        return False
+        print("no es primo")
     for i in range(2, int(numero**0.5) + 1):
         if numero % i == 0:
-            return False
-    return True
+            print("Es primo")
+    
 numero= int(input("Ingrese un número: "))
 if Nprimo(numero):
     
     
-    print(f"{numero} es primo.")
+    print("es primo.")
 else:
-    print(f"{numero} no es primo.")
+    print("No es primo.")
+    
+#Programa con ayuda de ChatPGT 👾😢
+    
