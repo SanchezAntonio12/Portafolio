@@ -1,0 +1,55 @@
+dir
+cd protafolio
+git add problema1.py
+git commit -m "problema1"
+git push 
+git add problema2.py
+git commit -m "problema2"
+git push 
+git add problema3.py
+git commit -m "problema3"
+git push 
+git add problema4.py
+git commit -m "problema4"
+git push 
+git add problema5.py
+git commit -m "problema5"
+git push 
+git add problema6.py
+git commit -m "problema6"
+git push 
+git add problema7.py
+git commit -m "problema7"
+git push 
+git add problema8.py
+git commit -m "problema8"
+git push 
+git add problema9.py
+git commit -m "problema9"
+git push 
+git add problem10.py  problema12.py  problema15.py
+git commit -m "problema10"  "problema12"  "problema15"
+git push 
+git add problema19.py
+git commit -m "problema19"
+git push 
+git add problema20.py
+git commit -m "problema20"
+git push 
+git add problema17.py
+git commit -m "problema17"
+git push 
+git add problema18.py
+git commit -m "problema18"
+git push 
+git add problema11.py
+git commit -m "problema11"
+git push 
+git add problema13.py
+git commit -m "problema13"
+git push 
+git add problema14.py
+git commit -m "problema14"
+git push 
+Borre problema11 por un error y al momento de subir el siguiente "problema16.py" me salio un error y busque los codigos de git que habia usado 
+y luego actualize la pagina de github me salio subido problema11.py y problema16.py
